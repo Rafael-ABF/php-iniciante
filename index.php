@@ -1,5 +1,6 @@
 <?php
 
-echo "opa!";
+echo "opa! 123";
+echo "ola";
 
 ?>
